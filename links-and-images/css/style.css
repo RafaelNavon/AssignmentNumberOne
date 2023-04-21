@@ -1,0 +1,42 @@
+body {
+    background-color:cadetblue
+}
+
+.image {
+    width: 400px;
+    height: 300px;
+}
+
+.food-image{
+    border-radius: 50%;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+}
+
+.food-headline {
+    font-size: 1.4rem;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+h2 {
+    color: red;
+    font-size: 2.5rem;
+}
+
+.headline {
+    font-size: 1.6rem;
+    margin-top: 20px;
+}
+
+.list {
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.homePage {
+    margin-top: 100px;
+    margin-left: 20px;
+}
